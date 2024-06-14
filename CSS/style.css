@@ -4,6 +4,7 @@ body{
 .div-pai{
     display: flex;
     padding-left: 50px;
+    padding-top: 70px;
 
 }
 .Formulário{
@@ -22,6 +23,7 @@ body{
 }
 .items-formi{
     margin: 5px;
+    margin-top: 40px;
 }
 .nome{
     width: 400px;
@@ -31,4 +33,19 @@ body{
 }
 .Comida-preferida{
     width: 400px;
+}
+.salvar0{
+    border-radius: 10px;
+    width: 380px;
+    background-color: green;
+    color: white;
+}
+.visualizar0{
+    border-radius: 10px;
+    width: 380px;
+    background-color: blue;
+    color: white;
+}.items-cadastr{
+    margin: 5px;
+    margin-top: 40px;
 }
