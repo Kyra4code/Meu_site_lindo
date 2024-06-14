@@ -1,7 +1,34 @@
 body{
     background-color: rgb(182, 182, 182);
 }
+.div-pai{
+    display: flex;
+    padding-left: 50px;
+
+}
 .Formulário{
     background-color: white;
     border-radius: 27px;
+    width: 450px;
+    height: 500px; 
+    
+}
+.Dados{
+    margin-left: 20px;
+    height: 500px;
+    width: 450px;
+    background-color: white;
+    border-radius: 27px;
+}
+.items-formi{
+    margin: 5px;
+}
+.nome{
+    width: 400px;
+}
+.data-de-nasc{
+    width: 400px;
+}
+.Comida-preferida{
+    width: 400px;
 }
