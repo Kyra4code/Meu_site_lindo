@@ -4,7 +4,8 @@ body{
 .div-pai{
     display: flex;
     padding-left: 50px;
-    padding-top: 70px;
+    margin-left: 290px;
+    padding-top: 105px;
 
 }
 .Formulário{
@@ -15,14 +16,14 @@ body{
     
 }
 .Dados{
-    margin-left: 20px;
+    margin-left: 40px;
     height: 500px;
     width: 450px;
     background-color: white;
     border-radius: 27px;
 }
 .items-formi{
-    margin: 5px;
+    margin: 10px;
     margin-top: 40px;
 }
 .nome{
@@ -46,6 +47,6 @@ body{
     background-color: blue;
     color: white;
 }.items-cadastr{
-    margin: 5px;
+    margin: 10px;
     margin-top: 40px;
 }
