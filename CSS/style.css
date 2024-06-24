@@ -21,6 +21,7 @@ body{
     width: 450px;
     background-color: white;
     border-radius: 27px;
+    overflow-y: auto; /* serve para criar uma barra de rolagem*/
 }
 .items-formi{
     margin: 10px;
@@ -49,4 +50,17 @@ body{
 }.items-cadastr{
     margin: 10px;
     margin-top: 40px;
+}
+li{
+    margin: 10px, 0px;
+    padding: 10px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+}
+.boxfight{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
